@@ -129,7 +129,7 @@ body {
     padding: 0 16px;
   }
   
-  .text {
+  .service {
     display: flex;
     flex-wrap: wrap;
     gap: 16px;
@@ -138,4 +138,6 @@ body {
     list-style: none;
   
   }
-  
+  .service .item {
+    width: calc((100% - 32px) / 3);
+}
