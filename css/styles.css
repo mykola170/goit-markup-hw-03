@@ -116,3 +116,6 @@ body {
   .contacts-link:focus {
     color: #404bbf;
   }
+  h1{
+    text-align: center;
+  }
