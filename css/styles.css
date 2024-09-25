@@ -141,3 +141,6 @@ body {
   .service .item {
     width: calc((100% - 32px) / 3);
 }
+.container{
+  align:center;
+}
