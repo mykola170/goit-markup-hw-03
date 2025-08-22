@@ -100,7 +100,9 @@ body {
   }
   
   .contacts {
+    display: flex;
     font-style: normal;
+    gap: 40px;
     margin-left: auto;
 
   }
