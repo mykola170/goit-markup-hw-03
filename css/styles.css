@@ -142,10 +142,13 @@ img {
 .page-first-button:hover {
   background-color: #404BBF;
 }
+.section-second {
+  padding: 120px;
+}
 
 .section-ul {
   display: flex;
-  gap: 24;
+  gap: 24px;
 }
 
 .section-li {
