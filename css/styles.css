@@ -98,12 +98,12 @@ img {
 
 .header-address-info {
   display: flex;
-  margin-right: 40px;
+  margin-left: 50px;
 }
 
 .header-address-tel {
   display: flex;
-  margin-left: 0px;
+  margin-left: 60px;
 }
 
 
@@ -242,6 +242,8 @@ img {
   text-transform: capitalize;
   color: #2e2f42;
   margin-bottom: 72px;
+  display: flex;
+  gap: 24px;
 }
 
 .forth-ul {
@@ -295,7 +297,6 @@ img {
 
 .footer-text {
   display: flex;
-  weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
