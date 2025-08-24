@@ -55,12 +55,12 @@ img {
   color: #2e2f42;
 }
 
-.menu {
+.header-nav {
   display: flex;
   gap: 40px;
 }
 
-.header-nav {
+.header-nav-item {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
@@ -74,7 +74,7 @@ img {
   color: #404bbf;
 }
 
-.address-nav-item {
+.address-nav-list{
   display: flex;
   gap: 40px;
 }
@@ -98,11 +98,13 @@ img {
 .header-address-info {
   display: flex;
   margin-left: 50px;
+  gap: 40px;
 }
 
 .header-address-tel {
   display: flex;
   margin-left: 60px;
+  gap: 40px;
 }
 
 
