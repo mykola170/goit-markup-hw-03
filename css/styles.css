@@ -58,7 +58,6 @@ img {
 .menu {
   display: flex;
   gap: 40px;
-
 }
 
 .header-nav {
@@ -75,7 +74,7 @@ img {
   color: #404bbf;
 }
 
-.address-nav {
+.address-nav-item {
   display: flex;
   gap: 40px;
 }
@@ -309,4 +308,30 @@ img {
   color: #f4f4fd;
   max-width: 264px;
 }
+.text-over-image {
+  position: absolute;
+  top: 2000px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #2E2F42;
+  font-size: 36px;
+ }
 
+ .text-over-image-ourteam {
+  position: absolute;
+  top: 1315px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: #2E2F42;
+  font-size: 36px;
+ }
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
