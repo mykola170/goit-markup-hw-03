@@ -101,17 +101,17 @@ img {
   font-style: normal;
 }
 
-.header_address:hover,
-.header_address:focus {
+.header-address:hover,
+.header-address:focus {
   color: #404bbf;
 }
 
-.header_address_info {
+.header-address-info {
   display: flex;
   gap: 40px;
 }
 
-.header_address_tel {
+.header-address-tel {
   display: flex;
   gap: 40px;
 }
@@ -321,7 +321,6 @@ img {
 }
 .text-over-image {
   position: absolute;
-  top: flex;
   left: 50%;
   transform: translate(-50%, -50%);
   text-align: center;
@@ -331,7 +330,6 @@ img {
 
  .text-over-image-ourteam {
   position: absolute;
-  top: flex;
   left: 50%;
   transform: translateX(-50%);
   text-align: center;
