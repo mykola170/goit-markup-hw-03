@@ -101,20 +101,18 @@ img {
   font-style: normal;
 }
 
-.header-address:hover,
-.header-address:focus {
+.header_address:hover,
+.header_address:focus {
   color: #404bbf;
 }
 
-.header-address-info {
+.header_address_info {
   display: flex;
-  margin-left: 50px;
   gap: 40px;
 }
 
-.header-address-tel {
+.header_address_tel {
   display: flex;
-  margin-left: 60px;
   gap: 40px;
 }
 
