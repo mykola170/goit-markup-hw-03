@@ -76,12 +76,15 @@ img {
   color: #404bbf;
 }
 
-.address-nav-list {
+.contact-list {
   display: flex;
   gap: 40px;
+  padding: 0;
+  margin: 0;
+  list-style: none;
 }
 
-.address-nav-item {
+.address-nav {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
