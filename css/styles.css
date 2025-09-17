@@ -18,14 +18,12 @@ img {
 }
 
 .container-header {
-max-width: 1128px;
-}
-.container-nav {
   display: flex;
-  padding: 0 15px;
+  max-width: 1158px;
   margin: 0 auto;
-
+  padding: 0 15px;
 }
+
 .container-button {
   display: flex;
   flex-direction: column;
