@@ -17,9 +17,11 @@ img {
   border-bottom: 1px solid #e7e9fc;
 }
 
+.container-header {
+max-width: 1128px;
+}
 .container-nav {
   display: flex;
-  max-width: 1128px;
   padding: 0 15px;
   margin: 0 auto;
 
